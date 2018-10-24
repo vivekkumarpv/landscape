@@ -2,3 +2,4 @@ fonttools
 brotli
 zopfli
 FLY
+FS
